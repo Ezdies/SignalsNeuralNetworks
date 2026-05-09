@@ -1,0 +1,61 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Jupyter local state
+.ipynb_checkpoints/
+.jupyter_config/
+.jupyter_data/
+.jupyter_runtime/
+
+# Local tooling / editor state
+.codex
+.env
+.env.*
+.vscode/
+.idea/
+
+# Local datasets
+MitBih/
+Ravdess/
+data/
+datasets/
+
+# Downloaded archives and large raw media
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.wav
+*.mp3
+*.flac
+
+# Model/checkpoint artifacts
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+checkpoints/
+models/
+
+# Generated logs and temporary files
+*.log
+tmp/
+temp/
+
+# OS metadata
+.DS_Store
+Thumbs.db

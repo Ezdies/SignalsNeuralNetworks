@@ -1,0 +1,10 @@
+Sprawdzamy żeby pacjenci nie mieszali się ze zbioru testowego ze zbiorem walidacyjnym
+
+W przypadku arytmii jest spadek przed pikiem, pik, i kolejny spadek
+
+Może być jednowymiarowy wykres
+
+Sieć konwolucyjna CNN 
+
+Po filtrze dokonujemy redukcji, potem jakieś filtry inne głębsze kolejna redukcja itd
+

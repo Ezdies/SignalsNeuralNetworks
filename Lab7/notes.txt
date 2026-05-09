@@ -1,0 +1,13 @@
+Zrobić to w rozkładzie czasowym falek
+Tutaj można rozłożyć sygnał na poszczególne falki i potem złożyć
+Za pomocą falek - będzie to podobny sygnał do ekg - jest to metoda dekompozycji falek
+To co nam zostaje to reszta po dekompozycji daną falką
+Możemy potem skomponować ten sygnał podobnie
+Różnicą jest to, że pojawia się syfnał o zmiennej częstotliwości, sygnał złożony spowrotem jest wyższej częstotliwości i jest mocniej zmodulowany
+Rozdzielczość czasowa przy falkach jest lepsza, a częstotliwościowa jest gorsza od fourierowskiej
+Mozna zmodyfigować mod vdt co będzie poprawiało częstotliwościowa analizę
+
+Ma być rozkładane za pomocą 2 różnych falek
+Pamiętać o stratyfikacji podczas walidacji - żeby pacjenci byli dzieleni, a dane były balansowane
+
+Analizować biblioteką wftb

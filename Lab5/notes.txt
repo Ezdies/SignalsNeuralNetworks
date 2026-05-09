@@ -1,0 +1,4 @@
+nfcc -> hmm -> cechy -> cross validation -> LDA/Gradient Boosting -> Cross validation
+
+Cross validation ma testować 20% z każdych wytrenowaych danych dla modelu, żeby sprawdzić jakie ma średnie accuracy, dla każdej części testową dla każdego z modeli hmm
+

@@ -1,0 +1,30 @@
+# Python / virtualenv
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter local state
+.ipynb_checkpoints/
+.jupyter_config/
+.jupyter_data/
+.jupyter_runtime/
+
+# Local tooling / editor state
+.codex
+.env
+.env.*
+.vscode/
+.idea/
+
+# Local datasets and extracted archives
+MitBih/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# OS metadata
+.DS_Store
+Thumbs.db
