@@ -27,9 +27,14 @@ env/
 
 # Local datasets
 MitBih/
+MIT-BIH/
 Ravdess/
 data/
 datasets/
+
+# Lab-local generated state and datasets
+Lab8/MIT-BIH/
+Lab8/.matplotlib/
 
 # Downloaded archives and large raw media
 *.zip
