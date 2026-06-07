@@ -1,0 +1,18 @@
+# Local EEG dataset and downloaded archive
+EEG-Alzheimer/
+archive.zip
+
+# Generated feature/cache files
+coherence_ad_vs_control_cache.npz
+*.npz
+
+# Local runtime state
+.venv/
+.matplotlib/
+.ipynb_checkpoints/
+__pycache__/
+
+# Jupyter/kernel local data
+.jupyter_config/
+.jupyter_data/
+.jupyter_runtime/
